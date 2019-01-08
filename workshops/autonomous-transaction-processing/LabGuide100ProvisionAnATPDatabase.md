@@ -1,6 +1,6 @@
 <table class="tbl-heading"><tr><td class="td-logo">![](images/obe_tag.png)
 
-October 18, 2018
+January 8, 2019
 </td>
 <td class="td-banner">
 # Lab 1: Provisioning an Autonomous Transaction Processing Database
