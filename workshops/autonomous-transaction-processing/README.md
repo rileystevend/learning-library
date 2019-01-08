@@ -15,6 +15,7 @@ This workshop walks you through all the steps to get started using the **Oracle 
 - Configure a secure connection using Oracle SQL Developer
 - Scaling an ATP Database
 - Loading data into ATP Database
+-****SWINGBENCH*****
 - Configure node.js app with ATP
 - Configure Java with ATP
 - Working with REST APIs
